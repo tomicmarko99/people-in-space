@@ -2,6 +2,10 @@
   "message": "success",
   "people": [
     {
+      "name": "Marko Tomic",
+      "craft": "ISS"
+    },
+    {
       "name": "Sergey Prokopyev",
       "craft": "ISS"
     },
